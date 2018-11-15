@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542300685019.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7DFEED23",
+    "lastKnownWriteTime" : 1542300727,
+    "last_content_update" : 1542300727253,
+    "path" : "C:/Study/BST262/R packages/Linreg/R/linreg.R",
+    "project_path" : "R/linreg.R",
+    "properties" : {
+        "cursorPosition" : "9,24",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

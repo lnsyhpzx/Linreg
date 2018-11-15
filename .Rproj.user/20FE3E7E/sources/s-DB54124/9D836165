@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542300664852.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9D836165",
+    "lastKnownWriteTime" : 1542288553,
+    "last_content_update" : 1542301832386,
+    "path" : "C:/Study/BST262/Week3/lab2.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "47,2",
+        "scrollLine" : "38"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

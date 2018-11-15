@@ -1,0 +1,34 @@
+[0m[0KMicrosoft Windows [Version 10.0.17134.407][0K[?25l
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Study\BST262\R packages\Linreg>[0K[?25h^V[0K[?25lC:\Study\BST262\R packages\Linreg>[0K[?25hg[0Ki[0Kt[0K[39G[?25lC:\Study\BST262\R packages\Linreg>git a[0K[?25hd[0Kd[0K[43G[?25lC:\Study\BST262\R packages\Linreg>git add *[0K[?25h]0;  - git  add *[?25l
+[0K[?25h]0; fatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K
+C:\Study\BST262\R packages\Linreg>[0K[?25hg[0Ki[0Kt[0K[39G[?25lC:\Study\BST262\R packages\Linreg>git i[0K[?25hn[0Ki[0Ki[0K[?25lC:\Study\BST262\R packages\Linreg>git ini[0K[?25ht[0K]0;  - git  init[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Study/BST262/R packages/Linreg/.git/[0K[?25l
+[0K
+C:\Study\BST262\R packages\Linreg>[0K[?25hg[0Ki[0Kt[0K[39G[?25lC:\Study\BST262\R packages\Linreg>git r[0K[?25he[0Km[0Ko[0Kt[0K[45G[?25lC:\Study\BST262\R packages\Linreg>git remot a[0K[?25hd[0Kd[0K[49G[48G[47G[46G[45G[44G[43G[44G[?25lC:\Study\BST262\R packages\Linreg>git remote add[0K[45G[?25h[46G[47G[49G[50G[?25lC:\Study\BST262\R packages\Linreg>git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[57G[?25lC:\Study\BST262\R packages\Linreg>git remote add origin ^V[0K[?25h[?25lC:\Study\BST262\R packages\Linreg>git remote add origin[0K[57G[?25h[56G[?25lC:\Study\BST262\R packages\Linreg>git remote add origin^V[0K[?25h[?25lC:\Study\BST262\R packages\Linreg>git remote add origin[0K[?25h[?25lC:\Study\BST262\R packages\Linreg>git remote add origi[0K[?25hn[0Khttps://github.com/lnsyhpzx/Lin[0Kr[?25l
+eg.git[0K[?25h[6G[5G[4G[3G[2G[1G[?25l[1A[87G[?25h[85G[84G[82G[80G[79G[78G[76G[75G[72G[70G[68G[66G[64G[63G[60G[59G[58G[57G[56G[?25lC:\Study\BST262\R packages\Linreg>git remote add origin https://github.com/lnsyhpzx/Li[0Kn
+reg.git[0K[1A[57G[?25h]0;  - git  remote add origin https://github.com/lnsyhpzx/Linreg.git[?25l
+
+[0K[?25h]0; [?25l
+C:\Study\BST262\R packages\Linreg>[0K[?25hg[0Ki[0Kt[0K[39G[?25lC:\Study\BST262\R packages\Linreg>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25h]0;  - git  status]0; On branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rbuildignore[0m[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mDESCRIPTION[0m[0K
+        [0;31mLinreg.Rproj[0m[0K
+        [0;31mNAMESPACE[0m[0K
+        [0;31mR/[0m[0K
+        [0;31mman/[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to track)[0K
+[0K
+C:\Study\BST262\R packages\Linreg>[0K[?25hg[0Ki[0Kt[0K[39G[?25lC:\Study\BST262\R packages\Linreg>git a[0K[?25hd[0Kd[0K[43G[?25lC:\Study\BST262\R packages\Linreg>git add .[0K[?25h]0;  - git  add .[?25l
+[0K[?25h
